@@ -9,7 +9,7 @@ A Técnica Pomodoro é um método de gerenciamento de tempo desenvolvido por Fra
 
 
 # Tecnologias utilizadas 
-ReactJs
-React Hooks
-HTML
-css
+-ReactJs
+-React Hooks
+-HTML
+-css
