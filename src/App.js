@@ -1,9 +1,9 @@
-import { useContext } from "react";
+import { useContext, useEffect } from "react";
 import Button from "./components/Button";
 import SetPomodoro from "./components/SetPomodoro";
 import { SettingContext } from "./context/SettingsContext";
 import ContadorAnimado from './components/ContadorAnimado'
-import { useEffect } from "react/cjs/react.development";
+
 
 
 function App () {
